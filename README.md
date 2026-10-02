@@ -1,7 +1,5 @@
 <img src="assets/character_sheet.svg" width="100%" alt="Character sheet for Bolkar Eren, a wizard stuck in the wrong timeline. Ability scores STR 13, DEX 16, CON 13, INT 18, WIS 8, CHA 10. Skills: Python, SQL, C/C++, PyTorch, scikit-learn, NumPy, SciPy, pandas, Matplotlib, OpenCV, CVXPY/MOSEK, Git, MLflow, Jupyter, Linux, Claude Code. Background: MSc Mathematics at Freie Universität Berlin (2024 to present), BSc (Hons) Computer Science and Physics at the University of Toronto (2018 to 2023). Languages: Turkish (native), English (C1), German (A2).">
 
-Looking for machine learning working-student and research-assistant roles from October 2026.
-
 ## The silhouette trial
 
 Classifying Pokémon silhouettes into 151 classes with transfer learning, in PyTorch with MLflow tracking.
